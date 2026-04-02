@@ -1,2 +1,1 @@
-
-![Banner](NOME_DO_ARQUIVO_DA_IMAGEM.jpg)
+![Banner](banner_github.png)
